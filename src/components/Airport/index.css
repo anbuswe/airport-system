@@ -1,0 +1,65 @@
+.airport-container1 {
+  display: flex;
+}
+.airport-main-container1 {
+  width: 100%;
+  text-align: left;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding-left: 30px;
+}
+.airport-info-black {
+  margin-right: 40px;
+  font-weight: bold;
+  color: black;
+}
+.airport-info-p1 {
+  margin-right: 40px;
+}
+.line-info-black {
+  width: 40px;
+  text-align: center;
+  font-weight: bold;
+  border-color: black;
+  margin-left: 10px;
+}
+.line-info-p1 {
+  width: 40px;
+  margin-left: 10px;
+  text-align: center;
+}
+.tab-list {
+  display: flex;
+}
+
+.tab {
+  padding: 10px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  border-bottom: 2px solid transparent;
+}
+
+.tab.active {
+  border-bottom-color: #007bff; /* Example of active tab indicator color */
+}
+
+.tab-content {
+  margin-top: 20px;
+}
+.airport-info2 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #464646;
+}
+.airport-info1 {
+  font-size: 16px;
+  font-weight: 600;
+}
+.airport-main-heading {
+  font-size: 34px;
+  font-weight: 700;
+}
+.service-airport {
+  padding-top: 100px;
+}

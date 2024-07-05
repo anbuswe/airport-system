@@ -1,0 +1,78 @@
+.home-container1 {
+  display: flex;
+  flex-direction: row;
+  width: 95vw;
+}
+
+.home-main-container1 {
+  width: 100%;
+  text-align: left;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding-left: 30px;
+}
+.home-checkbox1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70px;
+  height: 32px;
+  border-right-width: 0px;
+}
+.home-all-items {
+  width: 900px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.home-country {
+  width: 161px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.home-abbrevation {
+  width: 95px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.home-terminals {
+  width: 95px;
+  border-left-width: 0px;
+  text-align: right;
+  padding-right: 10px;
+}
+.home-pencil {
+  width: 32px;
+  height: 32px;
+  border-width: 0px;
+  text-align: center;
+}
+.home-check-element {
+  width: 100px;
+}
+.home-delete-icon {
+  width: 32px;
+  height: 32px;
+  border-width: 0px;
+}
+.home-heading1 {
+  font-size: 25px;
+  font-weight: 700;
+}
+.home-button-add {
+  background-color: black;
+  border-radius: 50px;
+  color: white;
+  width: 96px;
+  height: 32px;
+}
+.home-con1 {
+  display: flex;
+  justify-content: space-between;
+}
+td {
+  border: 1px solid #d5d5d5;
+  min-width: 50px;
+}
+table {
+  border-spacing: 0px;
+}
